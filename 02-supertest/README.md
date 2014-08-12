@@ -11,7 +11,7 @@ A test script might look like this:
     var request = require('supertest');
     request = request('http://foundersandcoders.org/');
 
-    describe('For a user, the home page', function() {
+    describe('When a user goes to the home page', function() {
 
         it("should return status code 200 OK", function(done) {
             request.get('/')

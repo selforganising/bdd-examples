@@ -1,4 +1,4 @@
-testing-examples
+Testing examples
 ================
 
 Examples of using Mocha and Supertest
