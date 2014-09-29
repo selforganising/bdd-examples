@@ -4,7 +4,7 @@ As well as *mocha*, we are going to use [*Supertest*](https://github.com/visionm
 
 Using Supertest, we can easily map user stories to acceptance tests for web applications.
 
-    npm install supertest
+    npm install -g supertest
 
 A test script might look like this:
 
